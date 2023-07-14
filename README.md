@@ -28,7 +28,7 @@ Set-ExecutionPolicy -ExecutionPolicy AllSigned
 ```
 
 Program uses third party program integrated inside this program
-##### 1. Seedtest CLI
+##### 1. Speedtest CLI
 https://www.speedtest.net/apps/cli
 
 ##### 2. Chocolaty Package Manager
