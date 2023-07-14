@@ -1,3 +1,5 @@
+
+
 # sxript2
 
 > Idea is just to simply basic tasks at simple click from a simplest menu bases program.
@@ -25,3 +27,9 @@ Or
 Set-ExecutionPolicy -ExecutionPolicy AllSigned 
 ```
 
+Program uses third party program integrated inside this program
+##### 1. Seedtest CLI
+https://www.speedtest.net/apps/cli
+
+##### 2. Chocolaty Package Manager
+https://chocolatey.org/
